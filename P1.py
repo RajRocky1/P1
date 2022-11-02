@@ -1,3 +1,5 @@
 a=10
 b=10
-print(a+b)
+ans=a+b
+print("The Answer is",ans)
+
